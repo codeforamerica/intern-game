@@ -3,3 +3,7 @@ My favorite color is orange.
 Ice cream -- chocolate. 
 
 Favorite color is blue. Favorite ice cream is pistachio.
+
+My favorite color is also blue.
+
+Favorite ice cream is vanilla.
